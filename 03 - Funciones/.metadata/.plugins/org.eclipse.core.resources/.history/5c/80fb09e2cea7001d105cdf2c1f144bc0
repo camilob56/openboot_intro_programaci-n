@@ -1,0 +1,30 @@
+package funciones;
+
+public class funciones2 {
+	
+	public static void main(String[] args) {
+		coche miCoche = new coche();
+		miCoche.incrementar();
+		System.out.println(miCoche.puertas);
+	}
+	
+	
+	
+	
+	
+	
+	
+}
+	
+class coche{
+	
+	int puertas = 4;
+	
+	
+	public void incrementar() {
+		this.puertas++;
+	}
+	
+	
+}
+	
