@@ -1,9 +1,0 @@
-/**
- * 
- */
-/**
- * @author CAMILO
- *
- */
-module Herencia {
-}
